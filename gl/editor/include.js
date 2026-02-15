@@ -1,1 +1,2 @@
-console.dir("XSS in " + origin)
+console.log("XSS in " + origin);
+alert();
