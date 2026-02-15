@@ -1,2 +1,2 @@
-console.log("XSS in " + origin);
+console.log("XSS in origin nav");
 alert();
